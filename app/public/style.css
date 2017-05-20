@@ -1,0 +1,45 @@
+.jumbotron {
+	background-image: url('friends.jpg');
+	color: #fff;
+	text-shadow: 2px 2px 5px #000;
+	font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+	color: #000;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+	color: #428bca;
+	text-shadow: 2px 2px 5px #000;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+	color: #428bca;
+	text-shadow: 2px 2px 5px #000;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1px;
+}
+
+label {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1px;
+}
+
+a {
+	color: #428bca;
+	font-family: 'Montserrat', sans-serif;
+}
